@@ -1,0 +1,7 @@
+.react-player-container {
+    height: 100vh;  /* Takes up the full viewport height */
+    width: 100vw;   /* Takes up the full viewport width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
